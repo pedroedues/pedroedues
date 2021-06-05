@@ -9,8 +9,9 @@
 - 🎓 &nbsp; Studying **Control Engineering and Automation** at <a href="http://szn.ifsp.edu.br/portal2/">IFSP - Campus Suzano</a>.
 - 🌱 &nbsp; Learning more about full stack development.
 
-<h3>:rocket:&nbsp;My Skills </h4>
+<h3>:rocket:&nbsp;My Skills </h3>
 <h4>Data and Applications</h4>
+
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   <br>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -31,13 +32,12 @@
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00989d)
 
 
-<br/>
-## ⭐Informations about my GitHub account
+<br>
+<h3>⭐Informations about my GitHub account </h3>
 <a href="https://github.com/pedroedues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroedues&theme=chartreuse-dark&show_icons=true" />
 </a>
-
-<br/>
+<br>
 
 <h3>&nbsp;Contact </h3> 
 
