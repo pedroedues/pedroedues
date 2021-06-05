@@ -30,8 +30,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007BCC)
   <br>
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00989d)
-
-
 <br>
 <h3>⭐Informations about my GitHub account </h3>
 <a href="https://github.com/pedroedues">
