@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=pedroedues&color=006bed)
 
 <h1> Hey,</h1>
-<p>I'am Pedro Santos, I'm an engineering student and I've been improving my programming skills since the begining of 2021. I'm facinated by technology and entrepreneurship. Programming, for me, is almost a life style. I belive in the power of the software development and I'm certain that the code is going </p> 
+<p>I'am Pedro Santos, I'm an engineering student and I've been improving my programming skills since the begining of 2021. I'm facinated by technology and entrepreneurship. I belive in the power of the software development and I'm certain that coding will keep changing de world  </p> 
 <h3> About me</h3>
 
 - 🤔 &nbsp; Exploring new tools and technologies to develop software and solve problems.
