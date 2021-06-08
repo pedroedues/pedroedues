@@ -2,14 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=pedroedues&color=006bed)
 
 <h1> Hey,</h1>
-<p> I'm an engineering student and I've been improving my programming skills since the 2019. I'm facinated by technology and entrepreneurship. I belive in the power of software development and I'm certain that coding will keep changing de world.  </p> 
-<h3> About me</h3>
+<p> I'm an engineering student and I've been improving my programming skills since 2019. I'm facinated by technology and entrepreneurship. I belive in the power of software development and I'm certain that coding will keep changing de world.  </p> 
+<h3> About me:</h3>
 
 - 🤔 &nbsp; Exploring new tools and technologies to develop software and solve problems.
 - 🎓 &nbsp; Studying **Control Engineering and Automation** at <a href="http://szn.ifsp.edu.br/portal2/">IFSP - Campus Suzano</a>.
 - 🌱 &nbsp; Learning more about full stack development.
 
-<h3>:rocket:&nbsp;My Skills </h3>
+<h3>:rocket:&nbsp;My Skills: </h3>
 <h4>Data and Applications</h4>
 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007BCC)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00989d)
 
-<h3>⭐Informations about my GitHub account </h3>
+<h3>⭐Informations about my GitHub account: </h3>
 <a href="https://github.com/pedroedues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroedues&theme=chartreuse-dark&show_icons=true" />
 </a>
