@@ -2,52 +2,54 @@
 ![](https://komarev.com/ghpvc/?username=pedroedues&color=006bed)
 
 <h1> Hey,</h1>
-<p> I'm an engineering student and I've been improving my programming skills since 2019. I'm facinated by technology and entrepreneurship. I belive in the power of software development and I'm certain that coding will keep changing de world.  </p> 
+<p> 
+  Working as backend software developer since august 2021 using .NET and developing APIs which impact more than 100k users. Furthermore, I’m one of the people  responsible for leading the development team and support department.
+</p> 
 <h3> About me:</h3>
 
-- 🤔 &nbsp; Exploring new tools and technologies to develop software and solve problems.
+- 🤔 &nbsp; Learning more about software development folowwing design pattern principles, clean architecture and microsservices
 - 🎓 &nbsp; Studying **Control Engineering and Automation** at <a href="http://szn.ifsp.edu.br/portal2/">IFSP - Campus Suzano</a>.
-- :construction: &nbsp; Learning more about full stack development.
 - :rocket: &nbsp; Content Creator at <a href="https://www.instagram.com/codeassociation/">@codeassociation</a>
 
 <h3>:rocket:&nbsp;My Skills: </h3>
-<h4>Data and Applications</h4>
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
+<h4>Applications</h4>
+<div style="display: inline_block;"><br>
+  <img align="center" alt="C" height="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;
+  <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;
+  <img align="center" alt="Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="C#" height="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="dot-net" height="45" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">&nbsp;&nbsp;
   </div>
   
-<!--   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  <code><img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=black"/></code> -->
+<h4>Data</h4>
+<div style="display: inline_block">
+  <img align="center" alt="mongodb" height="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;
+  <img align="center" alt="Redis" height="45" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">&nbsp;&nbsp;
+  <img align="center" alt="SQL-Server" height="45" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">&nbsp;&nbsp;
+</div>
 
 
 <h4>DevOps</h4>
   <div>
-  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="GITHUB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-<!--   ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) -->
+    <img align="center" alt="GIT" height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">&nbsp;&nbsp;
+    <img align="center" alt="GITHUB" height="45" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">&nbsp;&nbsp;
+    <img align="center" alt="AZURE-DEVOPS" height="55" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">&nbsp;&nbsp;
   </div>
+
 <h4>Development Tools</h4>
   <div>
-    <img align="center" alt="VISUAL-STUDIO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-    <img align="center" alt="ARDUINO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
+    <img align="center" alt="VISUAL-STUDIO" height="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
+    <img align="center" alt="VISUAL-STUDIO-CODE" height="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">&nbsp;&nbsp;
+    <img align="center" alt="ARDUINO" height="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">&nbsp;&nbsp;
   </div>
-  
-<!--   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007BCC)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00989d) -->
 
-<h3>⭐Informations about my GitHub account: </h3>
-<div >
-<a href="https://github.com/pedroedues">
+<h3>📈 GitHub account: </h3>
+<div align="center">
+  <a href="https://github.com/pedroedues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroedues&theme=chartreuse-dark&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedues&layout=compact&langs_count=16&theme=chartreuse-dark"/> -->
-
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroedues&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 <br>
 
 <h3>📫&nbsp;Connect with me:</h3> 
